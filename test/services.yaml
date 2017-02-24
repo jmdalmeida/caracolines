@@ -1,0 +1,9 @@
+services:
+    service1:
+        struct: Sadsdsa
+        constructor: asdsaa
+        arguments:
+            - "@asjdkajdkl" # service
+            - "%argument%" # config argument
+            - "sadda" # string
+            - 0 #int ...
