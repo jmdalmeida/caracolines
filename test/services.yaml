@@ -1,6 +1,6 @@
 services:
     service1:
-        struct: Sadsdsa
+        package: Sadsdsa
         constructor: asdsaa
         arguments:
             - "@asjdkajdkl" # service

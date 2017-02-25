@@ -1,9 +1,9 @@
 parameters: 
-    hello: "world"
-    foo: "bar"
-    dia: 21
-    preco: 3.5
-    object:
-        name: "string"
-        age: 23
+    stringTest: "world"
+    intTest: 21
+    floatTest: 3.5
+    mapTest:
+        name: "chines"
+        age: 24
     arrayTest: [1,3,4,5]
+    boolTest: true
